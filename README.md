@@ -70,7 +70,7 @@ Because knowing your numbers is one thing. Knowing what they mean is the job.
 
 ---
 
-✅ Strategic Recommendations
+## ✅ Strategic Recommendations
 - Invest more in the Website channel, optimize UX - user experience, post-purchase flows, and retention emails.
 - Push annual plans at every touchpoint; trials, upgrades, and renewal reminders.
 - Replace blanket discounts with value-led retention; onboarding, customer success, loyalty perks.
