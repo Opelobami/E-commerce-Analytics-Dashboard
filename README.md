@@ -86,7 +86,7 @@ Because knowing your numbers is one thing. Knowing what they mean is the job.
 
 ---
 
-🤝 Connect & Feedback
+## 🤝 Connect & Feedback
 If you found this project useful or have suggestions, feel free to:
 
 - ⭐ Star this repository
