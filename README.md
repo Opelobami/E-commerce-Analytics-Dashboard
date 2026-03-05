@@ -49,6 +49,8 @@ Because knowing your numbers is one thing. Knowing what they mean is the job.
 | **Power Query** | Data cleaning, transformation and shaping |
 | **Data Modelling** | Star schema, relationships between facts and dimension tables |
 
+---
+
 ## 💡 Key Insights
 - Website drives everything - $4.12M in revenue and 3,851 loyal customers. It's not just the top channel, it's the retention engine.
 - Annual plans are 10x more valuable than monthly ($1,197 vs $118 avg revenue per transaction).
@@ -87,6 +89,6 @@ Because knowing your numbers is one thing. Knowing what they mean is the job.
 🤝 Connect & Feedback
 If you found this project useful or have suggestions, feel free to:
 
-⭐ Star this repository
-🐛 Open an issue for feedback or questions
-🔗 Connect on LinkedIn — [Opeyemi Ayodeji](https://www.linkedin.com/in/opeyemi-ayodeji-86a696b0/)
+- ⭐ Star this repository
+- 🐛 Open an issue for feedback or questions
+- 🔗 Connect on LinkedIn — [Opeyemi Ayodeji](https://www.linkedin.com/in/opeyemi-ayodeji-86a696b0/)
