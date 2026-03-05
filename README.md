@@ -16,7 +16,7 @@ Because knowing your numbers is one thing. Knowing what they mean is the job.
 
 ---
 
-## #Business Question
+## Business Question
 1. How do total sales change by month?
 2. Which channels bring in the most sales?
 3. Which channels bring the most repeat (loyal) customers?
